@@ -1,8 +1,8 @@
 # Lab 4: Divs, Attributes and a Small Fix
 
-**Name:** Priyanshu Yadav  
-**Roll No:** 2410303363  
-**Student ID:** BCS2024318  
+**Name:** Vishal babu  
+**Roll No:** 2410303557  
+**Student ID:** BCS2024333 
 **Course:** B.Tech CSE (3rd Year) - HTML & CSS Development Lab (BCS554)
 
 ## Aim
