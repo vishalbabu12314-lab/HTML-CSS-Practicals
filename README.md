@@ -2,8 +2,8 @@
 
 Invertis University, Bareilly - B.Tech CSE, Third Year
 
-**Name:** Priyanshu Yadav | **Roll No:** 2410303363  
-**Student ID:** BCS2024318
+**Name:** Vishal babu | **Roll No:** 2410303557 
+**Student ID:** BCS2024333
 
 | Lab | Topic |
 |-----|-------|
